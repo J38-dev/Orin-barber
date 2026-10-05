@@ -480,15 +480,23 @@ SERVICE OPTIONS
 
 .service-card strong{
 
+    display:block;
+
     color:var(--yellow);
 
     font-family:var(--heading);
 
-    font-size:25px;
+    font-size:30px;
+
+    font-weight:400;
+
+    letter-spacing:1px;
 
     white-space:nowrap;
 
-}
+    line-height:1;
+
+  }
 
 
 /*==================================================
